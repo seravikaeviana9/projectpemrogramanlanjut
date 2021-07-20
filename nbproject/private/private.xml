@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/tugas/kuliah/pl/TR/src/java/servlet/Login_Servlet.java</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/login.jsp</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/src/java/koneksi/Koneksi.java</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/fonts/font-awesome-4.7.0/less/larger.less</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/src/java/servlet/Logout_Servlet.java</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/src/java/dao/KeyboardDAO.java</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/keyboard.jsp</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/halaman.jsp</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/Switch_CRUD_JSP.jsp</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/detailproducts.jsp</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/src/java/model/Keyboard.java</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/Keyboard_CRUD_JSP.jsp</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/src/java/servlet/Mouse_CRUD_Servlet.java</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/src/java/servlet/Keyboard_CRUD_Servlet.java</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/src/java/model/Mouse.java</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/Mouse_CRUD_JSP.jsp</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/contact.jsp</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/mouse.jsp</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/images/BgHOME.png</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/images/about.svg</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/images/bg-01.jpg</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/images/bgContact.png</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/images/bgabout.svg</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/products.jsp</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/switch.jsp</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/about.jsp</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/index.jsp</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/web/login_adm.jsp</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/src/java/servlet/Login_Admin.java</file>
+            <file>file:/F:/tugas/kuliah/pl/TR/src/java/servlet/Logout_Admin.java</file>
+        </group>
+    </open-files>
+</project-private>
